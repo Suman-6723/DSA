@@ -1,8 +1,21 @@
+/*
+A
+AB
+ABC
+ABCD
+ABCDE
+*/
+
+
 #include<iostream>
 using namespace std;
 void pattern15(int n){
      for(int i =0; i<n ; i++){
-        
+        //i=2  
+        for(char ch = 'A' ; ch<= 'A'+i ; ch++){
+            cout<<ch;
+        }
+        cout<<endl;
      }
 
 }
