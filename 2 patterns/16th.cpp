@@ -11,7 +11,7 @@ A
 using namespace std;
 void pattern15(int n){
      for(int i =0; i<n ; i++){
-        //check ASCII values of letter
+    // Prints letters from 'A' up to the last letter for this row.
         for(char ch = 'A' ; ch<= 'A'+(n-i-1) ; ch++){
 
             cout<<ch;
