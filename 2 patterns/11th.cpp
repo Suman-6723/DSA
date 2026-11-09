@@ -1,3 +1,16 @@
+/*
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+//same code but in different way of approach  
+*/
+
 #include<iostream>
 using namespace std;
 void pattern10(int n){
